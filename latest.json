@@ -1,5 +1,5 @@
 {
-    "version": "1.3.0",
-    "notes": "## Nowe\n\n**Wtyczka mówi, że wyszła nowsza wersja.** W panelu Motyw IQL jest zakładka\n„Aktualizacje\": zainstalowana wersja, data ostatniego sprawdzenia, stan i opis\nzmian z wydania. Gdy nowsza wersja istnieje, pasek pojawia się także pod wierszem\nwtyczki na liście wtyczek — w tym samym miejscu, w którym WordPress pokazuje\nwszystkie inne aktualizacje.\n\n**Nic nie dzieje się samo.** Wejście w panel nie wysyła żadnego żądania: widzisz\nostatni zapamiętany wynik, a wtyczka odzywa się do sieci dopiero po kliknięciu\n„Sprawdź teraz\". Pobiera przy tym wyłącznie numer wersji i opis zmian — bez\ntokenu, bez kodu i bez instalacji jednym kliknięciem. Paczkę dostajesz tam, gdzie\ndostałeś wtyczkę, i wgrywasz przez Wtyczki → Dodaj nową → Wyślij wtyczkę.\n\n## Pod maską\n\nKanał wersji był publikowany przy każdym wydaniu od 1.0.0, a README opisywał tę\nfunkcję jako działającą — tylko nikt tego pliku nie czytał. Teraz czyta.\n\nBramka `check-theme.php` pilnuje, żeby ekran znowu po cichu nie zniknął:\nsprawdza, że klasa istnieje, że kanał idzie po https, że świeża instalacja mówi\n„jeszcze nie sprawdzano\", że nowsza wersja jest rozpoznawana, i że zakładka oraz\npasek na liście wtyczek naprawdę się renderują.",
-    "published": "2026-09-04T19:04:00+00:00"
+    "version": "1.3.1",
+    "notes": "## Zmiany\n\n- zakładka zapisanych szablonów woła Library::listing() zgodnie z sygnaturą",
+    "published": "2026-09-08T22:04:43+00:00"
 }
