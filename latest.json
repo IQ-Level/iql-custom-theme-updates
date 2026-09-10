@@ -1,5 +1,5 @@
 {
-    "version": "1.4.1",
-    "notes": "## Poprawki\n\n**Bieżąca pozycja w menu gasła wszędzie poza dokładnie tą, w którą kliknięto.**\nKolor bieżącej pozycji stał na jednej klasie WordPressa, więc „Oferta\" traciła\npodświetlenie, gdy odwiedzający wszedł w usługę pod nią, a linki w panelu mega\nnie były podświetlane w ogóle. Teraz kontrolka obejmuje pozycję bieżącą, jej\nrodzica i przodków — także `current-page-ancestor`, bo przy pozycjach typu\n„odnośnik własny\" WordPress nie zawsze dokłada klasę `current-menu-ancestor` —\noraz linki w kolumnach panelu mega.\n\nKontrolka „Kolor pozycji nadrzędnej\" zostaje bez zmian: ustawiona nadal daje\nrodzicowi własny kolor, pusta pozwala mu dziedziczyć kolor bieżącej pozycji.\nWygląd istniejących nagłówków nie zmienia się przy samej aktualizacji.",
-    "published": "2026-09-10T11:05:24+00:00"
+    "version": "1.5.0",
+    "notes": "## Zmiany\n\n- FAQ bez zdublowanego CSS, odstep na pozycji, stan otwarty w kontrolkach",
+    "published": "2026-09-10T13:40:55+00:00"
 }
