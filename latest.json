@@ -1,5 +1,5 @@
 {
-    "version": "1.7.3",
-    "notes": "## Ostrzeżenie o podwójnym liczeniu GA4\n\nJeśli wpiąłeś GA4 przez „Kody i tagi\", a witryna ma równolegle kontener Google\nTag Managera, panel powie Ci o tym wprost. GA4 może stać w obu miejscach naraz\ni wtedy **każda sesja liczy się dwa razy**.\n\nTen rodzaj błędu niczego nie psuje na stronie — zawyża sesje i konwersje, więc\nwychodzi dopiero przy rozliczaniu kampanii, kiedy danych nie da się już\nodratować.\n\nWtyczka **nie twierdzi**, że liczysz podwójnie: co siedzi w kontenerze, wie\nwyłącznie GTM. Mówi tylko, że są dwa miejsca, w których GA4 może stać, i że\ntrzeba wybrać jedno. Sprawdzenie zajmuje chwilę w panelu GTM.\n\nPoza tym bez zmian — 1.7.2 działa i nic nie wymaga poprawek.",
-    "published": "2026-09-14T21:57:26+00:00"
+    "version": "1.7.4",
+    "notes": "## Opis zmian znowu się wyświetla\n\nKarta **Motyw IQL → Aktualizacje → „Co się zmieniło\"** pokazywała sam nagłówek\ni pustkę pod nim. Opis wydania był pobierany poprawnie — gubił się dopiero przy\nwyświetlaniu.\n\nPrzyczyna była w polskich znakach. Tekst dzielony na wiersze pękał w środku\nlitery `ą`, a uszkodzony fragment znikał w całości. Wystarczyło jedno `ą`\nw zdaniu, żeby cały akapit przepadł — czyli praktycznie zawsze.\n\nPrzy okazji opis czyta się teraz normalnie: złamane wiersze sklejają się\nw akapity zamiast sterczeć jako osobne linijki, a **pogrubienia** i fragmenty\n`kodu` dostają właściwe formatowanie zamiast pokazywać gwiazdki i grawisy.\n\nNic poza tą kartą się nie zmieniło. Jeśli w Twoim panelu opis był pusty, po\naktualizacji kliknij **„Sprawdź teraz\"** — treść pojawi się w całości.",
+    "published": "2026-09-14T22:00:49+00:00"
 }
