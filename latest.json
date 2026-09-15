@@ -1,5 +1,5 @@
 {
-    "version": "1.10.4",
-    "notes": "## Zmiany\n\n- widget „Treść wpisu\" miał w ustawieniach wyłącznie cudzą sekcję FAQ",
-    "published": "2026-09-15T14:43:39+00:00"
+    "version": "1.10.5",
+    "notes": "## Zmiany\n\n- widget treści brał szablon za wpis w edytorze Theme Buildera",
+    "published": "2026-09-15T14:45:34+00:00"
 }
