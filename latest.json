@@ -1,5 +1,5 @@
 {
-    "version": "1.10.5",
-    "notes": "## Zmiany\n\n- widget treści brał szablon za wpis w edytorze Theme Buildera",
-    "published": "2026-09-15T14:45:34+00:00"
+    "version": "1.10.6",
+    "notes": "## Zmiany\n\n- tabele na ciemnym tle nadal mało czytelne\n- w edytorze szablonu widget treści pokazywał stronę główną witryny",
+    "published": "2026-09-15T14:54:27+00:00"
 }
