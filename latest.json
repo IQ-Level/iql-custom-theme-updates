@@ -1,5 +1,5 @@
 {
-    "version": "1.10.2",
-    "notes": "## Zmiany\n\n- wpisu zbudowanego Elementorem nie dawało się otworzyć do edycji",
-    "published": "2026-09-15T14:35:02+00:00"
+    "version": "1.10.3",
+    "notes": "## Zmiany\n\n- widget treści wpisu nigdy nie renderował wpisu zbudowanego Elementorem",
+    "published": "2026-09-15T14:42:19+00:00"
 }
