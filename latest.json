@@ -1,5 +1,5 @@
 {
-    "version": "1.12.3",
-    "notes": "## Zmiany\n\n- po rozwinięciu menu lista zmieniała kierunek na wierszowy",
-    "published": "2026-09-16T12:30:16+00:00"
+    "version": "1.12.4",
+    "notes": "## Zmiany\n\n- szerokość widgetu menu z kontrolki + niepełna zgoda na zboczu",
+    "published": "2026-09-16T12:53:35+00:00"
 }
