@@ -1,5 +1,5 @@
 {
-    "version": "1.12.4",
-    "notes": "## Zmiany\n\n- szerokość widgetu menu z kontrolki + niepełna zgoda na zboczu",
-    "published": "2026-09-16T12:53:35+00:00"
+    "version": "1.12.5",
+    "notes": "## Zmiany\n\n- hamburger schodził pod logo przy zamkniętym menu",
+    "published": "2026-09-16T12:56:45+00:00"
 }
