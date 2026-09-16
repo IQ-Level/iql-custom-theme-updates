@@ -1,5 +1,5 @@
 {
-    "version": "1.12.6",
-    "notes": "## Zmiany\n\n- Consent Mode — stan akumulowany zamiast wyścigu z GA4",
-    "published": "2026-09-16T13:09:33+00:00"
+    "version": "1.13.0",
+    "notes": "## Zmiany\n\n- przycisk „Zaktualizuj z gotowca\" przy wpisach Kodów i tagów",
+    "published": "2026-09-16T13:14:08+00:00"
 }
