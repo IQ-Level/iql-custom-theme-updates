@@ -1,5 +1,5 @@
 {
-    "version": "1.12.1",
-    "notes": "## Zmiany\n\n- hamburger wracał do wiersza nagłówka, menu wysuwa się jako warstwa",
-    "published": "2026-09-16T12:14:36+00:00"
+    "version": "1.12.2",
+    "notes": "## Zmiany\n\n- nagłówek z overflow:hidden przycinał wysunięte menu",
+    "published": "2026-09-16T12:22:09+00:00"
 }
