@@ -1,5 +1,5 @@
 {
-    "version": "1.11.3",
-    "notes": "## Zmiany\n\n- pierwszy page_view po zgodzie leciał z gcs=G100",
-    "published": "2026-09-16T12:04:44+00:00"
+    "version": "1.12.0",
+    "notes": "## Zmiany\n\n- nagłówek zmieniał układ w trakcie używania menu + widget „Na górę\"",
+    "published": "2026-09-16T12:10:12+00:00"
 }
