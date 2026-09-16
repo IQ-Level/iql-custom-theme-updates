@@ -1,5 +1,5 @@
 {
-    "version": "1.11.2",
-    "notes": "## Zmiany\n\n- menu w hamburgerze zmieniało szerokość w trakcie używania",
-    "published": "2026-09-16T12:03:20+00:00"
+    "version": "1.11.3",
+    "notes": "## Zmiany\n\n- pierwszy page_view po zgodzie leciał z gcs=G100",
+    "published": "2026-09-16T12:04:44+00:00"
 }
