@@ -1,5 +1,5 @@
 {
-    "version": "1.12.5",
-    "notes": "## Zmiany\n\n- hamburger schodził pod logo przy zamkniętym menu",
-    "published": "2026-09-16T12:56:45+00:00"
+    "version": "1.12.6",
+    "notes": "## Zmiany\n\n- Consent Mode — stan akumulowany zamiast wyścigu z GA4",
+    "published": "2026-09-16T13:09:33+00:00"
 }
