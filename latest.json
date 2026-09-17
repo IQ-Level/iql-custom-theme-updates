@@ -1,5 +1,5 @@
 {
-    "version": "1.14.0",
-    "notes": "## Zmiany\n\n- własne kroje pisma z blokadą ładowania krojów przez Elementora",
-    "published": "2026-09-17T11:02:16+00:00"
+    "version": "1.14.1",
+    "notes": "## Zmiany\n\n- aria-selected na role=\"button\" w akordeonie i przełączniku Elementora",
+    "published": "2026-09-17T11:57:52+00:00"
 }
